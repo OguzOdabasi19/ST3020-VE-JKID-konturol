@@ -1,0 +1,1 @@
+# ST3020-VE-JKID-konturol
