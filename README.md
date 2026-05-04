@@ -32,6 +32,3 @@ Bu proje, seri port üzerinden çoklu servo motorların kontrolünü sağlamak a
 - [ ] Arayüze anlık veri akışını gösteren bir grafik (plotter) eklenmesi.
 - [ ] Belirli hareket senaryolarının kaydedilip tekrar oynatılması (Makro özelliği).
 
-## 🤝 Katkıda Bulunma
-
-Eğer bu projeye katkıda bulunmak isterseniz, lütfen bir "Pull Request" oluşturmadan önce yapacağınız değişiklikleri tartışmak için bir konu (Issue) açın.
